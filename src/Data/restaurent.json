@@ -1,0 +1,57 @@
+[
+  {"id":"1",
+    "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant7.jpeg",
+    "name": "Starbucks",
+    "category": ["Beverages", "Ice", "Cream"],
+    "rating": "4.5",
+    "delivery_timimg": "33mins",
+    "cost_two": "200",
+    "offer": ["40% off", "Use TRYNEW"]
+  },
+  {"id":"2",
+    "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant7.jpeg",
+    "name": "Starbucks",
+    "category": ["Beverages", "Ice", "Cream"],
+    "rating": "3.5",
+    "delivery_timimg": "33mins",
+    "cost_two": "800",
+    "offer": ["40% off", "Use TRYNEW"]
+  },
+  {"id":"3",
+    "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant7.jpeg",
+    "name": "Starbucks",
+    "category": ["Beverages", "Ice", "Cream"],
+    "rating": "4.5",
+    "delivery_timimg": "33mins",
+    "cost_two": "200",
+    "offer": ["40% off", "Use TRYNEW"]
+  },
+  {"id":"4",
+    "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant7.jpeg",
+    "name": "Starbucks",
+    "category": ["Beverages", "Ice", "Cream"],
+    "rating": "4.5",
+    "delivery_timimg": "33mins",
+    "cost_two": "200",
+    "offer": ["40% off", "Use TRYNEW"]
+  },
+  {"id":"5",
+    "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant7.jpeg",
+    "name": "Starbucks",
+    "category": ["Beverages", "Ice", "Cream"],
+    "rating": "1.5",
+    "delivery_timimg": "33mins",
+    "cost_two": "600",
+    "offer": ["40% off", "Use TRYNEW"]
+  },
+  {"id":"6",
+    "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant7.jpeg",
+    "name": "Starbucks",
+    "category": ["Beverages", "Ice", "Cream"],
+    "rating": "2.3",
+    "delivery_timimg": "33mins",
+    "cost_two": "300",
+    "offer": ["40% off", "Use TRYNEW"]
+  }
+  
+]
